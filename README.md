@@ -59,7 +59,7 @@ Static portfolio hosted on AWS S3 with CI/CD deployment pipeline.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makhadoshumba&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=makhadoshumba&theme=radical" />
 </p>
 
 ---
