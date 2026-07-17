@@ -63,6 +63,9 @@ Developed a Website that monitors my GitHub deployment pipelines for another web
 ### AWS Static Website
 A Static portfolio hosted on a Aws s3 bucket, I integrated a CI/CD deployment pipeline, To eliminate the need of having to manually update this website, everthing is automated.
 
+### Database Creation And Manipulation 
+Labs demonstaring my ability Handle Data by manipulating, and filtering it.
+
 
 ---
 
