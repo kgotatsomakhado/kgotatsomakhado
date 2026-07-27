@@ -84,7 +84,7 @@ Labs demonstaring my ability Handle Data by manipulating, and filtering it.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=makhadoshumba&theme=radical" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=makhadoshumba&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
