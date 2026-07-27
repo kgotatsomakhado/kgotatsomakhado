@@ -81,14 +81,6 @@ Labs demonstaring my ability Handle Data by manipulating, and filtering it.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=makhadoshumba&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## More About My Work
 I continuously explore cloud deployments, CI/CD pipelines, and scalable backend systems while improving my DevOps, Dev, Linux, and cloud skills.
 
