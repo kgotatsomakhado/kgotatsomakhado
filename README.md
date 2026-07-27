@@ -35,14 +35,6 @@ while exploring and working with different cloud platforms and services.
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makhadoshumba&bg_color=0A0A0A&color=FF0000&line=8B0000&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ## Projects
 
 ### Aria (Serverless AI Assitant)
