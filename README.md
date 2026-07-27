@@ -35,6 +35,14 @@ while exploring and working with different cloud platforms and services.
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=makhadoshumba&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Projects
 
 ### Aria (Serverless AI Assitant)
