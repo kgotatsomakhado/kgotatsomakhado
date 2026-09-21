@@ -41,7 +41,7 @@ I enjoy taking applications from development to deployment using cloud platforms
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=makhadoshumba&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kgotatsomakhado&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
