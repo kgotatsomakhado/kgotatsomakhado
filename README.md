@@ -52,6 +52,7 @@ I enjoy taking applications from development to deployment using cloud platforms
 **Technologies:** Cloudflare Workers, Tavily, Gemini API, Vercel
 A custom AI assistant integrated with the Google Gemini API and Tavily Search API to provide users with real-time information.
 Specific keywords such as "When" are used to trigger Tavily web searches, allowing the assistant to retrieve up-to-date information from the web.
+
 **Live:** https://aria-bice-xi.vercel.app  
 **GitHub:** https://github.com/makhadoshumba/Aria-AI-assistant
 
@@ -59,6 +60,7 @@ Specific keywords such as "When" are used to trigger Tavily web searches, allowi
 **Technologies:** FastAPI, Nginx, Oracle VM, Cloudflare Pages
 A document conversion website created to provide students, businesses, and professionals with a simple way to convert documents without requiring users to log in, create an account, or provide credentials.
 The application uses a FastAPI backend hosted on an Oracle VM, with Nginx handling web traffic and Cloudflare services supporting the deployment.
+
 **Live:** https://docswitch.cloudsurfing.workers.dev/  
 **GitHub:** https://github.com/makhadoshumba/DocSwitch
 
@@ -77,6 +79,7 @@ Migrated a local SQL Server database to Azure SQL Database and successfully conn
 **Technologies:** Azure Functions, GitHub Actions, GitHub API, Azure Storage, CI/CD
 Built a real-time serverless CI/CD monitoring dashboard utilizing Azure Functions and the GitHub API to track pipeline deployment status.
 The system monitors GitHub Actions workflows and displays deployment information through a web dashboard.
+
 **Live:** http://cicdmonitorfrontend123.z6.web.core.windows.net  
 **GitHub:** https://github.com/makhadoshumba/cloud-ci-cd-monitor
 
@@ -88,6 +91,7 @@ Changes pushed to the GitHub repository are automatically deployed to the S3 hos
 **Technologies:** Python, Algorithms
 A Python algorithm that allows users to easily calculate customer change.
 The program allows a user to select the item purchased, enter the amount paid by the customer, and automatically calculate the required change, simplifying the basic Point of Sale process.
+
 **GitHub:** https://github.com/makhadoshumba/Py-Programs/blob/main/Cashier%20Service%20Program.py
 
 ### Database Creation And Manipulation
