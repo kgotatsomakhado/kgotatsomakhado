@@ -50,32 +50,24 @@ I enjoy taking applications from development to deployment using cloud platforms
 
 ### Aria (Serverless Personal AI Assistant)
 **Technologies:** Cloudflare Workers, Tavily, Gemini API, Vercel
-
 A custom AI assistant integrated with the Google Gemini API and Tavily Search API to provide users with real-time information.
-
 Specific keywords such as "When" are used to trigger Tavily web searches, allowing the assistant to retrieve up-to-date information from the web.
-
 **Live:** https://aria-bice-xi.vercel.app  
 **GitHub:** https://github.com/makhadoshumba/Aria-AI-assistant
 
 ### DocSwitch (Document Conversion Website)
 **Technologies:** FastAPI, Nginx, Oracle VM, Cloudflare Pages
-
 A document conversion website created to provide students, businesses, and professionals with a simple way to convert documents without requiring users to log in, create an account, or provide credentials.
-
 The application uses a FastAPI backend hosted on an Oracle VM, with Nginx handling web traffic and Cloudflare services supporting the deployment.
-
 **Live:** https://docswitch.cloudsurfing.workers.dev/  
 **GitHub:** https://github.com/makhadoshumba/DocSwitch
 
 ### EasyTask (Serverless Task Manager)
 A full-stack task management application designed for teams where users can create, manage, and track tasks.
-
 The application was built using cloud technologies across the stack, including web hosting, backend services, database hosting, and deployment infrastructure.
 
 ### Community Portal Website (Full Stack)
 A full-stack web application that connects users through alerts, announcements, and a complaint system with secure admin and super admin panels.
-
 The application was built using different cloud services to provide a smooth experience for users.
 
 ### Azure SQL Migration Project
@@ -83,26 +75,19 @@ Migrated a local SQL Server database to Azure SQL Database and successfully conn
 
 ### Azure CI/CD Monitoring System (DevOps)
 **Technologies:** Azure Functions, GitHub Actions, GitHub API, Azure Storage, CI/CD
-
 Built a real-time serverless CI/CD monitoring dashboard utilizing Azure Functions and the GitHub API to track pipeline deployment status.
-
 The system monitors GitHub Actions workflows and displays deployment information through a web dashboard.
-
 **Live:** http://cicdmonitorfrontend123.z6.web.core.windows.net  
 **GitHub:** https://github.com/makhadoshumba/cloud-ci-cd-monitor
 
 ### AWS Static Website
 A static portfolio hosted on an AWS S3 bucket with an integrated CI/CD deployment pipeline.
-
 Changes pushed to the GitHub repository are automatically deployed to the S3 hosting environment, eliminating the need to manually update the website.
 
 ### Cashier Service Program (Python)
 **Technologies:** Python, Algorithms
-
 A Python algorithm that allows users to easily calculate customer change.
-
 The program allows a user to select the item purchased, enter the amount paid by the customer, and automatically calculate the required change, simplifying the basic Point of Sale process.
-
 **GitHub:** https://github.com/makhadoshumba/Py-Programs/blob/main/Cashier%20Service%20Program.py
 
 ### Database Creation And Manipulation
