@@ -117,4 +117,4 @@ I continuously explore cloud deployments, CI/CD pipelines, serverless applicatio
 
 ---
 
-<p align="center">Built by Shumba Makhado — Software & Cloud Engineering</p>
+<p align="center">Built by Shumba Makhado — Software & Cloud Enthusiast</p>
